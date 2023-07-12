@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Sholay",
+        "releaseYear": 1975,
+        "artists": [
+            "Amitabh Bachchan",
+            "Dharmendra",
+            "Hema Malini"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Bahubali",
+        "releaseYear": 2015,
+        "artists": [
+            "Prabhas",
+            "Rana Duggubatti",
+            "Anushka Shetty",
+            "Tamanna"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "3 Idiots",
+        "releaseYear": 2009,
+        "artists": [
+            "Amir Khan",
+            "R. Madhavan",
+            "Sharman Joshi",
+            "Karina Kapoor"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "A Wednesday",
+        "releaseYear": 2008,
+        "artists": [
+            "Anupam Kher",
+            "Naseeruddin Shah",
+            "Jimmy Shergill"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Jab We Met",
+        "releaseYear": 2008,
+        "artists": [
+            "Shahid Kapoor",
+            "Karina Kapoor"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Wake Up Sid",
+        "releaseYear": 2005,
+        "artists": [
+            "Ranbir Kapoor",
+            "Konkana Sen Sharma"
+        ]
+    }
+]
